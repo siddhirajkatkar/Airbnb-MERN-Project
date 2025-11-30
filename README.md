@@ -1,4 +1,4 @@
-{"id":"47101","variant":"standard","title":"SRS for Airbnb Clone (MERN + MySQL)"}
+
 # **Software Requirements Specification (SRS)**  
 ## **Airbnb Clone Web Application**  
 ### **Technology Stack: MERN + MySQL**
@@ -198,7 +198,6 @@ Traveller can book a property:
 ---
 
 # **7. Future Enhancements**
-- Online payment integration  
 - Reviews & Ratings  
 - Real-time chat between host & customer  
 - Wishlist feature  
