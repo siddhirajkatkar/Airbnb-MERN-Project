@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/siddhirajkatkar/Airbnb-MERN-Project/issues"
   },
-  "homepage": "https://github.com/siddhirajkatkar/Airbnb-MERN-Project#readme"
+  "homepage": "https://github.com/siddhirajkatkar/Airbnb-MERN-Project#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.15.3"
+  }
 }
